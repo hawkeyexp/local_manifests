@@ -4,7 +4,7 @@
   <remove-project name="LineageOS/android_packages_apps_Updater" />
   <project name="omnirom/android_bootable_recovery" path="bootable/recovery" revision="android-7.1" />
   <project name="hawkeyexp/android_packages_apps_Updater" path="packages/apps/Updater" />
-  <project name="hawkeyexp/proprietary_vendor_sony" path="vendor/sony" revision="regen" />
+  <project name="hawkeyexp/proprietary_vendor_sony" path="vendor/sony" revision="lineage-14.1_z3" />
   <project name="hawkeyexp/android_device_sony_z3" path="device/sony/z3" revision="lineage-14.1_z3" />
   <project name="hawkeyexp/android_kernel_sony_msm8974" path="kernel/sony/msm8974" revision="lineage-14.1_z3" />
   <project name="hawkeyexp/android_device_sony_shinano-common" path="device/sony/shinano-common" revision="lineage-14.1_z3" />
