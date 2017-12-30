@@ -2,7 +2,7 @@
 <manifest>
   <remove-project name="LineageOS/android_bootable_recovery" />
   <remove-project name="LineageOS/android_packages_apps_Updater" />
-  <project name="omnirom/android_bootable_recovery" path="bootable/recovery" revision="android-7.1" />
+  <project name="hawkeyexp/android_bootable_recovery" path="bootable/recovery" revision="android-7.1" />
   <project name="hawkeyexp/android_packages_apps_Updater" path="packages/apps/Updater" />
   <project name="hawkeyexp/proprietary_vendor_sony" path="vendor/sony" revision="lineage-14.1_z1" />
   <project name="hawkeyexp/android_kernel_sony_msm8974" path="kernel/sony/msm8974" revision="lineage-14.1_t2w_z1" />
